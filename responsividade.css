@@ -1,14 +1,13 @@
-@media screen and (min-width: 895px){
+@media screen and (min-width: 1201px){
     .menu-icon {
-        display:none;      
+        display:none;     
     }
-       
     .menu-icon img {
         display: hidden;
     }
     }
     
-    @media screen and (max-width: 894px){
+    @media screen and (max-width: 1200px){
         
     .body {
         overflow-x: hidden;
@@ -51,7 +50,7 @@
     .navList li a {
         background-color: rgba(7, 7, 7, 0.74);
     }
-    
+
     
     .redesSociais {
         justify-content: center;          
